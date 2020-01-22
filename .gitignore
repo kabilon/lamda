@@ -2,4 +2,11 @@
 node_modules
 dist
 .rpt2_cache
-yarn-error.log
+coverage
+.nyc_output
+*.log
+.vscode
+.idea
+compiled
+.awcache
+docs
